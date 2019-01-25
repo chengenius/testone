@@ -1,0 +1,8 @@
+{
+  "name": "chenginus/testone",
+  "autoload": {
+    "psr-4": {
+      "Chenginus\\Testone\\": "src/"
+    }
+  }
+}
